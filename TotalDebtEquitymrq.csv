@@ -1,0 +1,42 @@
+,Date,Unix,Ticker,DE Ratio,Price,SP500
+0,2003-12-07 10:36:10,1070789770.0,intraQuarter/_KeyStats,0.072,20.85,"0    28.2
+Name: Price, dtype: float64"
+1,2004-02-03 07:33:34,1075790014.0,intraQuarter/_KeyStats,0.07,22.32,"0    28.20
+1    24.38
+Name: Price, dtype: float64"
+2,2004-06-03 01:20:38,1086222038.0,intraQuarter/_KeyStats,0.0,28.92,"0    28.20
+1    24.38
+2    24.98
+Name: Price, dtype: float64"
+3,2004-08-10 02:02:44,1092099764.0,intraQuarter/_KeyStats,0.0,30.3,"0    28.20
+1    24.38
+2    24.98
+Name: Price, dtype: float64"
+4,2004-10-12 05:40:57,1097556057.0,intraQuarter/_KeyStats,0.0,38.59,"0    28.20
+1    24.38
+2    24.98
+Name: Price, dtype: float64"
+5,2004-12-04 14:16:51,1102166211.0,intraQuarter/_KeyStats,0.0,62.68,"0    28.20
+1    24.38
+2    24.98
+Name: Price, dtype: float64"
+6,2005-01-26 15:16:47,1106749007.0,intraQuarter/_KeyStats,0.0,71.94,"0    28.20
+1    24.38
+2    24.98
+Name: Price, dtype: float64"
+7,2005-02-04 03:07:08,1107482828.0,intraQuarter/_KeyStats,0.0,77.81,"0    28.20
+1    24.38
+2    24.98
+Name: Price, dtype: float64"
+8,2005-03-01 10:36:03,1109669763.0,intraQuarter/_KeyStats,0.0,44.86,"0    28.20
+1    24.38
+2    24.98
+Name: Price, dtype: float64"
+9,2005-12-17 11:55:53,1134816953.0,intraQuarter/_KeyStats,0.0,71.11,"0    28.20
+1    24.38
+2    24.98
+Name: Price, dtype: float64"
+10,2006-01-25 09:43:52,1138178632.0,intraQuarter/_KeyStats,0.0,76.04,"0    28.20
+1    24.38
+2    24.98
+Name: Price, dtype: float64"
